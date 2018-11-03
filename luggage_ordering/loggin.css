@@ -1,0 +1,17 @@
+body { padding-top: 70px; }
+
+#wright{
+	width: 199px;
+	height: 270px;
+}
+
+#simple{
+/* Style for "Simple Ele" */
+width: 220px;
+height: 150px;
+/* color: #fcfcfc; */
+font-family: Montserrat;
+font-size: 36px;
+font-weight: 400;
+line-height: 42px;
+}
